@@ -33,4 +33,8 @@ public class Linguagem {
     public String getRanking() {
         return ranking;
     }
+
+    public void setId(String id) {
+        this.id = id;
+    }
 }
